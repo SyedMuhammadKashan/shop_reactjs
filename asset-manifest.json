@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/shop_reactjs/static/css/main.551086f2.chunk.css",
+    "main.js": "/shop_reactjs/static/js/main.e07ee214.chunk.js",
+    "main.js.map": "/shop_reactjs/static/js/main.e07ee214.chunk.js.map",
+    "runtime-main.js": "/shop_reactjs/static/js/runtime-main.3abba9e0.js",
+    "runtime-main.js.map": "/shop_reactjs/static/js/runtime-main.3abba9e0.js.map",
+    "static/js/2.80ddbfa7.chunk.js": "/shop_reactjs/static/js/2.80ddbfa7.chunk.js",
+    "static/js/2.80ddbfa7.chunk.js.map": "/shop_reactjs/static/js/2.80ddbfa7.chunk.js.map",
+    "index.html": "/shop_reactjs/index.html",
+    "precache-manifest.7dea14984e106e79ab3f5a9895736a95.js": "/shop_reactjs/precache-manifest.7dea14984e106e79ab3f5a9895736a95.js",
+    "service-worker.js": "/shop_reactjs/service-worker.js",
+    "static/css/main.551086f2.chunk.css.map": "/shop_reactjs/static/css/main.551086f2.chunk.css.map",
+    "static/js/2.80ddbfa7.chunk.js.LICENSE.txt": "/shop_reactjs/static/js/2.80ddbfa7.chunk.js.LICENSE.txt",
+    "static/media/banner-1.webp": "/shop_reactjs/static/media/banner-1.189b8e48.webp",
+    "static/media/banner-2.webp": "/shop_reactjs/static/media/banner-2.0133f90e.webp",
+    "static/media/banner-3.webp": "/shop_reactjs/static/media/banner-3.345ff941.webp",
+    "static/media/cart.webp": "/shop_reactjs/static/media/cart.7fb03004.webp",
+    "static/media/category-banner.jpg": "/shop_reactjs/static/media/category-banner.565895f3.jpg",
+    "static/media/contact-banner.jpg": "/shop_reactjs/static/media/contact-banner.846858cd.jpg",
+    "static/media/product-1.jpg": "/shop_reactjs/static/media/product-1.c2b3aaca.jpg",
+    "static/media/product-2.jpg": "/shop_reactjs/static/media/product-2.495f8944.jpg",
+    "static/media/product-3.jpg": "/shop_reactjs/static/media/product-3.8ff0d0c4.jpg",
+    "static/media/product-4.jpg": "/shop_reactjs/static/media/product-4.7b9f6800.jpg",
+    "static/media/product-5.jpg": "/shop_reactjs/static/media/product-5.b2ec9e10.jpg",
+    "static/media/product-6.jpg": "/shop_reactjs/static/media/product-6.4ba9a4da.jpg",
+    "static/media/product-7.jpg": "/shop_reactjs/static/media/product-7.7d82be83.jpg",
+    "static/media/product-8.jpg": "/shop_reactjs/static/media/product-8.170760a1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3abba9e0.js",
+    "static/js/2.80ddbfa7.chunk.js",
+    "static/css/main.551086f2.chunk.css",
+    "static/js/main.e07ee214.chunk.js"
+  ]
+}
