@@ -1,0 +1,218 @@
+.media-heading a
+{
+    color: #dc3545;
+}
+
+.media-body {
+    -ms-flex: 1;
+    flex: 2;
+    margin-left: 20px;
+}
+.nmnp
+{
+    margin: 0px;
+    padding: 0px;
+}
+.themecolorbg
+{
+background-color: black !important;
+}
+
+.navbar {
+    padding: 1.5rem 1rem;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(255, 255, 255, 1);
+}
+.navbar-expand .navbar-nav .nav-link {
+    padding-right: 1.5rem;
+    padding-left: 1.5rem;
+}
+.navbar-nav {
+    margin-top: 8px;
+}
+.btn-outline-info {
+    color: #ea1b25 !important;
+    border-color: #ea1b25 !important;
+}
+.btn-outline-info:hover {
+    color: #fff !important;
+    background-color:  #ea1b25 !important;
+}
+.btn-primary {
+    color: #fff !important;
+    background-color:  #ea1b25 !important;
+    border-color: #ea1b25 !important;
+}
+.btn-primary:hover {
+    color: #fff !important;
+    background-color:  #ea1b25 !important;
+    border-color: #ea1b25;
+}
+
+.nav-link:hover {
+    color: #ea1b25 !important;
+}
+.cat-area 
+{
+    margin-top: 20px;
+    margin-bottom: 20px;;
+}
+.cat-area h2
+{
+    margin-top: 40px;
+    margin-bottom: 40px;
+
+}
+.newsletter-area {
+    position: relative;
+    z-index: 1;
+    background-color: #3c3c3c;
+}
+.newsletter-area .newsletter-text h2 {
+    font-size: 36px;
+    margin-bottom: 10px;
+    color: #fff;
+}
+
+.newsletter-area .newsletter-text {
+    position: relative;
+    z-index: 1;
+}
+.mb-100 {
+    margin-bottom: 100px !important;
+}
+.section-padding-100-0 {
+    padding-top: 100px;
+    padding-bottom: 0;
+}
+.newsletter-area .newsletter-text p {
+    color: #b3b1b1;
+    margin-bottom: 0;
+}
+.newsletter-area .newsletter-form form input[type="email"] {
+    width: 100%;
+    height: 50px;
+    background-color: #fff;
+    color: #afafaf;
+    font-size: 14px;
+    font-style: italic;
+    border: none;
+    padding: 0 30px;
+}
+.newsletter-area .newsletter-form form input[type="submit"]:hover, .newsletter-area .newsletter-form form input[type="submit"]:focus {
+    background-color: #ea1b25;
+    color: #fff;
+}
+.newsletter-area .newsletter-form form input[type="submit"] {
+    -webkit-transition-duration: 500ms;
+    transition-duration: 500ms;
+    height: 50px;
+    background-color: #ea1b25;
+    color: #fff;
+    font-size: 14px;
+    padding: 0 30px;
+    cursor: pointer;
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 10;
+    border: none;
+}
+.mt0px
+{
+    margin-top:0px !important;
+}
+
+.footer_area {
+    position: relative;
+    z-index: 1;
+    background-color: #252525;
+    padding: 80px 0;
+}
+.footer_area .single_widget_area .footer_menu .navbar-nav .nav-item.active .nav-link {
+    color: #ea1b25;
+}
+.footer_area .single_widget_area .footer_menu .navbar-nav .nav-item .nav-link:hover, .footer_area .single_widget_area .footer_menu .navbar-nav .nav-item .nav-link:focus {
+    color: #ea1b25;
+}
+.footer_area .single_widget_area .copywrite {
+    font-size: 12px;
+    color: rgba(255, 255, 255, 0.4);
+    margin-top: 10px;
+}
+.footer_area .single_widget_area .footer_menu .navbar-nav .nav-item .nav-link {
+    padding: 10px 30px;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+
+#contatti{
+    letter-spacing: 2px;
+    }
+  #contatti a{
+    color: #000000;
+    text-decoration: none;
+  }
+  
+  .svg-inline--fa {
+    color: black;
+  }
+  .subform
+  {
+    transition-duration: 500ms;
+    height: 50px;
+    background-color: #ea1b25;
+    color: #fff;
+    font-size: 14px;
+    padding: 0 30px;
+    cursor: pointer;
+    border: none;
+  }
+  
+  @media (max-width: 575.98px) {
+  
+    #contatti{padding-bottom: 800px;}
+    #contatti .maps iframe{
+      width: 100%;
+      height: 450px;
+    }
+   }
+  
+  
+  @media (min-width: 576px) {
+  
+     #contatti{padding-bottom: 800px;}
+  
+     #contatti .maps iframe{
+       width: 100%;
+       height: 450px;
+     }
+   }
+  
+  @media (min-width: 768px) {
+  
+    #contatti{padding-bottom: 350px;}
+  
+    #contatti .maps iframe{
+      width: 100%;
+      height: 850px;
+    }
+  }
+  
+  @media (min-width: 992px) {
+    #contatti{padding-bottom: 200px;}
+  
+     #contatti .maps iframe{
+       width: 100%;
+       height: 700px;
+     }
+  }
+  
+  
+  #author a{
+    color: #000000;
+    text-decoration: none;
+      
+  }
